@@ -4,7 +4,7 @@ Hi! Disini saya akan membagikan cara bagaimana menggunakan **Botol**
 
 # Apa itu Botol?
 
-**Botol** adalah sebuah Bot WhatsApp yang dibuat untuk membantu para penggunanya
+**Botol** A WhatsApp Bot of information, news, images, moderation, etc.
 
 # Cara Menggunakan?
 
