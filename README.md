@@ -30,13 +30,13 @@ Kamu bisa ketik **b join `<link grup>`** untuk mengundang bot atau klik [disini]
 
 > **contoh**: b pokenum 25
 
-**b pokemon** untuk menampilkan info Pokémon secara acak
-
 **b quotes `<kata kunci>`** untuk menampilkan kutipan dengan kata kunci yang kamu masukan
 
 > **contoh**: b quotes rindu
 
 **b animeq** untuk menampilkan kutipan anime secara acak
+
+**b pokemon** untuk menampilkan info Pokémon secara acak
 
 **b quotesid** untuk menampilkan kutipan secara acak
 
