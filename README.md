@@ -173,7 +173,7 @@ Kamu bisa ketik **b join `<link grup>`** untuk mengundang bot atau klik [disini]
 
 >- **b proadm @member @member** untuk mengangkat dua member sekaligus menjadi admin
 
->- **b deadm @member @member** untuk menurunkan dua member sekaligus menjadi member
+>- **b deadm @member @member** untuk menurunkan dua admin sekaligus menjadi member
 
 >- **b remove @member @member** untuk mengeluarkan dua member sekaligus dari grup
 
