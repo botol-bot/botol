@@ -22,11 +22,11 @@ Kamu bisa ketik **b join `<link grup>`** untuk mengundang bot atau klik [disini]
 
 > **contoh**: b anime kimi no na wa
 
-**b pokename <nama>** untuk menampilkan info Pokémon dengan nama
+**b pokename `<nama>`** untuk menampilkan info Pokémon dengan nama
 
 > **contoh**: b pokename pikachu
 
-**b pokenum <nomor>** untuk menampilkan info Pokémon dengan nomor
+**b pokenum `<nomor>`** untuk menampilkan info Pokémon dengan nomor
 
 > **contoh**: b pokenum 25
 
@@ -108,8 +108,9 @@ Kamu bisa ketik **b join `<link grup>`** untuk mengundang bot atau klik [disini]
 **b search `<kode negara>` `<kata>`** untuk mencari kata di wikipedia
 > **contoh**: b search id otaku
 
-**b brainly `<pertanyaan>`** untuk mencari jawaban di brainly
-> **contoh**: b brainly reproduksi adalah
+**b yt `<nama video>`** untuk mencari video url youtube
+
+> **contoh**: b yt kecerdasan buatan
 
 **b lyric `<song title>`** untuk mencari lirik lagu
 > **contoh**: b lyric secukupnya
@@ -172,9 +173,9 @@ Kamu bisa ketik **b join `<link grup>`** untuk mengundang bot atau klik [disini]
 
 >- **b proadm @member @member** untuk mengangkat dua member sekaligus menjadi admin
 
->- **b deadm @member @member** untuk mengangkat dua member sekaligus menjadi admin
+>- **b deadm @member @member** untuk menurunkan dua member sekaligus menjadi member
 
->- **b remove @member @member** untuk mengangkat dua member sekaligus menjadi admin
+>- **b remove @member @member** untuk mengeluarkan dua member sekaligus dari grup
 
 > **Note**: *maksimal 5 mention.*
 
