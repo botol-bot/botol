@@ -22,6 +22,16 @@ Kamu bisa ketik **b join `<link grup>`** untuk mengundang bot atau klik [disini]
 
 > **contoh**: b anime kimi no na wa
 
+**b pokename <nama>** untuk menampilkan info Pokémon dengan nama
+
+> **contoh**: b pokename pikachu
+
+**b pokenum <nomor>** untuk menampilkan info Pokémon dengan nomor
+
+> **contoh**: b pokenum 25
+
+**b pokemon** untuk menampilkan info Pokémon secara acak
+
 **b quotes `<kata kunci>`** untuk menampilkan kutipan dengan kata kunci yang kamu masukan
 
 > **contoh**: b quotes rindu
@@ -29,22 +39,6 @@ Kamu bisa ketik **b join `<link grup>`** untuk mengundang bot atau klik [disini]
 **b animeq** untuk menampilkan kutipan anime secara acak
 
 **b quotesid** untuk menampilkan kutipan secara acak
-
-# Downloader Menu
-
-**b dl `<url>`** untuk mengirim url download
-
-> **contoh**: b dl https://instagram/p/code
-
-> **Website yang mendukung**
-
->- **facebook.com**
-
->- **instagram.com**
-
->- **tiktok.com**
-
->- **youtube.com**
 
 # Gambar Menu
 
